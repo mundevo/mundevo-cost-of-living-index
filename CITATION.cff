@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Mundevo Cost of Living Index"
+abstract: >-
+  Cost-of-living index (New York = 100), rent index, payroll-tax burden at the
+  average wage and three quality-of-life indices for 104 cities in 49
+  countries, built from a fixed one-person monthly basket in which every line
+  of every city names its publisher, link, period and method.
+authors:
+  - name: "Mundevo"
+    website: "https://www.mundevo.com"
+# version and date-released are stamped by `npm run dataset:release` on the
+# staged copy (docs/dataset-release/build/github/CITATION.cff).
+version: "2026-11-20"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+url: "https://www.mundevo.com/cost-of-living-index"
+repository: "https://github.com/mundevo/mundevo-cost-of-living-index"
+keywords:
+  - cost of living
+  - rent
+  - purchasing power
+  - cities
+  - relocation
+  - open data
