@@ -12,8 +12,8 @@ authors:
     website: "https://www.mundevo.com"
 # version and date-released are stamped by `npm run dataset:release` on the
 # staged copy (docs/dataset-release/build/github/CITATION.cff).
-version: "2026-11-20"
-date-released: "2026-11-20"
+version: "2026-11-25"
+date-released: "2026-11-25"
 license: CC-BY-4.0
 url: "https://www.mundevo.com/cost-of-living-index"
 repository: "https://github.com/mundevo/mundevo-cost-of-living-index"

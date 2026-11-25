@@ -122,8 +122,8 @@ These counts describe this release; the files themselves are the reference.
 
 Read these before you compare two cities.
 
-1. **Half the basket is rent, and 54 cities' rent has no public-body source.**
-   43 are `contrasted` (a named market report) and 11 are `estimated` from a
+1. **Half the basket is rent, and 51 cities' rent has no public-body source.**
+   40 are `contrasted` (a named market report) and 11 are `estimated` from a
    same-country city (Arequipa, Bali, Busan, Casablanca, Cebu, Chiang Mai,
    Jakarta, Marrakech, Medellin, Penang, Valparaiso). When we compared earlier
    estimates against later sourced figures, the estimates were off by a median

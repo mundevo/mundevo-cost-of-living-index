@@ -1,105 +1,105 @@
 rank,city,country,iso2,cost_index,rent_index,tax_burden_pct,rent_source,data_as_of,safety_index,homicides_per_100k,homicide_scope,health_coverage_index,uhc_service_coverage,air_quality_index,pm25_ugm3,quality,tax_source,currency,monthly_basket_local,slug,url
-1,Alexandria,Egypt,EG,7,2,12,contrasted,2026-08,71,1.87,national,56,71,63,16.1,64,hand-calibrated,EGP,12774,alexandria,https://www.mundevo.com/cost-of-living/alexandria
-2,Cairo,Egypt,EG,7,3,12,contrasted,2026-09,71,1.87,national,56,71,53,20.9,61,hand-calibrated,EGP,13928,cairo,https://www.mundevo.com/cost-of-living/cairo
-3,Bangalore,India,IN,13,9,6,contrasted,2026-11,62,2.93,national,52,69,53,20.9,56,hand-calibrated,INR,44221,bangalore,https://www.mundevo.com/cost-of-living/bangalore
-4,Delhi,India,IN,13,9,6,contrasted,2026-08,62,2.93,national,52,69,0,104.7,43,hand-calibrated,INR,43721,delhi,https://www.mundevo.com/cost-of-living/delhi
-5,Bali,Indonesia,ID,16,9,3,estimated,2026-11,100,0.3,national,48,67,74,11.9,75,hand-calibrated,IDR,10128950,bali,https://www.mundevo.com/cost-of-living/bali
-6,Jakarta,Indonesia,ID,17,11,3,estimated,2026-11,100,0.3,national,48,67,12,55.7,60,hand-calibrated,IDR,10926128,jakarta,https://www.mundevo.com/cost-of-living/jakarta
-7,Mumbai,India,IN,21,20,6,contrasted,2026-08,62,2.93,national,52,69,30,35.5,51,hand-calibrated,INR,68644,mumbai,https://www.mundevo.com/cost-of-living/mumbai
+1,Alexandria,Egypt,EG,7,2,12,contrasted,2026-08,71,1.87,national,56,71,63,16.1,64,hand-calibrated,EGP,12775,alexandria,https://www.mundevo.com/cost-of-living/alexandria
+2,Cairo,Egypt,EG,7,3,12,contrasted,2026-09,71,1.87,national,56,71,53,20.9,61,hand-calibrated,EGP,13929,cairo,https://www.mundevo.com/cost-of-living/cairo
+3,Bangalore,India,IN,13,9,6,contrasted,2026-11,62,2.93,national,52,69,53,20.9,56,hand-calibrated,INR,44071,bangalore,https://www.mundevo.com/cost-of-living/bangalore
+4,Delhi,India,IN,13,9,6,contrasted,2026-08,62,2.93,national,52,69,0,104.7,43,hand-calibrated,INR,43571,delhi,https://www.mundevo.com/cost-of-living/delhi
+5,Bali,Indonesia,ID,16,9,3,estimated,2026-11,100,0.3,national,48,67,74,11.9,75,hand-calibrated,IDR,10129736,bali,https://www.mundevo.com/cost-of-living/bali
+6,Jakarta,Indonesia,ID,17,11,3,estimated,2026-11,100,0.3,national,48,67,12,55.7,60,hand-calibrated,IDR,10926980,jakarta,https://www.mundevo.com/cost-of-living/jakarta
+7,Mumbai,India,IN,21,20,6,contrasted,2026-08,62,2.93,national,52,69,30,35.5,51,hand-calibrated,INR,68494,mumbai,https://www.mundevo.com/cost-of-living/mumbai
 8,Penang,Malaysia,MY,21,16,5,estimated,2026-11,91,0.76,national,75,80,63,16.2,78,hand-calibrated,MYR,3018,penang,https://www.mundevo.com/cost-of-living/penang
-9,Marrakech,Morocco,MA,22,15,7,estimated,2025-12,68,2.2,national,44,65,84,9.1,64,hand-calibrated,MAD,7948,marrakech,https://www.mundevo.com/cost-of-living/marrakech
-10,Hanoi,Vietnam,VN,23,21,10,contrasted,2026-11,77,1.43,national,56,71,22,43.2,56,hand-calibrated,VND,21222923,hanoi,https://www.mundevo.com/cost-of-living/hanoi
-11,Ho Chi Minh City,Vietnam,VN,23,22,10,contrasted,2026-11,77,1.43,national,56,71,46,24.3,62,hand-calibrated,VND,21490506,ho-chi-minh-city,https://www.mundevo.com/cost-of-living/ho-chi-minh-city
+9,Marrakech,Morocco,MA,22,15,7,estimated,2025-12,68,2.2,national,44,65,84,9.1,64,hand-calibrated,MAD,7957,marrakech,https://www.mundevo.com/cost-of-living/marrakech
+10,Hanoi,Vietnam,VN,23,21,10,contrasted,2026-11,77,1.43,national,56,71,22,43.2,56,hand-calibrated,VND,21224344,hanoi,https://www.mundevo.com/cost-of-living/hanoi
+11,Ho Chi Minh City,Vietnam,VN,23,22,10,contrasted,2026-11,77,1.43,national,56,71,46,24.3,62,hand-calibrated,VND,21494277,ho-chi-minh-city,https://www.mundevo.com/cost-of-living/ho-chi-minh-city
 12,Kuala Lumpur,Malaysia,MY,23,19,5,contrasted,2026-11,91,0.76,national,75,80,33,33.3,71,hand-calibrated,MYR,3364,kuala-lumpur,https://www.mundevo.com/cost-of-living/kuala-lumpur
-13,Ankara,Turkey,TR,24,13,29,contrasted,2026-08,64,2.65,national,69,77,68,14,67,oecd-taxing-wages,TRY,43306,ankara,https://www.mundevo.com/cost-of-living/ankara
-14,Casablanca,Morocco,MA,24,18,7,estimated,2026-11,68,2.2,national,44,65,75,11.8,61,hand-calibrated,MAD,8605,casablanca,https://www.mundevo.com/cost-of-living/casablanca
+13,Ankara,Turkey,TR,24,13,29,contrasted,2026-08,64,2.65,national,69,77,68,14,67,oecd-taxing-wages,TRY,43361,ankara,https://www.mundevo.com/cost-of-living/ankara
+14,Casablanca,Morocco,MA,24,18,7,estimated,2026-11,68,2.2,national,44,65,75,11.8,61,hand-calibrated,MAD,8615,casablanca,https://www.mundevo.com/cost-of-living/casablanca
 15,Chiang Mai,Thailand,TH,25,20,5,estimated,2026-11,48,5.61,national,79,82,50,22.3,59,hand-calibrated,THB,29890,chiang-mai,https://www.mundevo.com/cost-of-living/chiang-mai
-16,Arequipa,Peru,PE,27,18,13,estimated,2026-11,41,7.48,national,50,68,88,8,56,hand-calibrated,PEN,3293,arequipa,https://www.mundevo.com/cost-of-living/arequipa
+16,Arequipa,Peru,PE,27,18,13,estimated,2026-11,41,7.48,national,50,68,88,8,56,hand-calibrated,PEN,3304,arequipa,https://www.mundevo.com/cost-of-living/arequipa
 17,Bangkok,Thailand,TH,27,24,5,contrasted,2026-11,48,5.61,national,79,82,44,26,58,hand-calibrated,THB,32345,bangkok,https://www.mundevo.com/cost-of-living/bangkok
-18,Cebu,Philippines,PH,28,24,8,estimated,2026-11,53,4.32,national,52,69,92,7.1,62,hand-calibrated,PHP,63129,cebu,https://www.mundevo.com/cost-of-living/cebu
-19,Johannesburg,South Africa,ZA,28,24,16,contrasted,2026-07,6,37.86,national,63,74,45,24.8,36,hand-calibrated,ZAR,17312,johannesburg,https://www.mundevo.com/cost-of-living/johannesburg
-20,Rio de Janeiro,Brazil,BR,29,23,9,contrasted,2026-09,20,20.58,national,83,84,60,17.5,52,hand-calibrated,BRL,6054,rio-de-janeiro,https://www.mundevo.com/cost-of-living/rio-de-janeiro
-21,Istanbul,Turkey,TR,30,20,29,contrasted,2026-08,64,2.65,national,69,77,60,17.5,65,oecd-taxing-wages,TRY,53183,istanbul,https://www.mundevo.com/cost-of-living/istanbul
-22,Lima,Peru,PE,30,22,13,official-adjusted,2026-11,41,7.48,national,50,68,71,12.9,52,hand-calibrated,PEN,3705,lima,https://www.mundevo.com/cost-of-living/lima
-23,São Paulo,Brazil,BR,30,24,9,contrasted,2026-09,20,20.58,national,83,84,52,21.6,50,hand-calibrated,BRL,6398,sao-paulo,https://www.mundevo.com/cost-of-living/sao-paulo
-24,Cordoba,Argentina,AR,31,17,17,contrasted,2026-10,51,4.78,national,75,80,98,5.5,71,hand-calibrated,ARS,1695614,cordoba,https://www.mundevo.com/cost-of-living/cordoba
-25,Manila,Philippines,PH,31,29,8,contrasted,2026-11,53,4.32,national,52,69,66,14.7,56,hand-calibrated,PHP,69899,manila,https://www.mundevo.com/cost-of-living/manila
-26,Valparaiso,Chile,CL,31,20,18,estimated,2026-11,47,5.68,national,83,84,75,11.7,67,oecd-taxing-wages,CLP,1098656,valparaiso,https://www.mundevo.com/cost-of-living/valparaiso
-27,Beijing,China,CN,32,26,13,contrasted,2026-10,98,0.55,national,85,85,42,27,79,hand-calibrated,CNY,7558,beijing,https://www.mundevo.com/cost-of-living/beijing
-28,Medellin,Colombia,CO,32,26,8,estimated,2026-10,16,24.3,national,79,82,67,14.2,51,oecd-taxing-wages,COP,3783838,medellin,https://www.mundevo.com/cost-of-living/medellin
-29,Shanghai,China,CN,33,28,13,contrasted,2026-10,98,0.55,national,85,85,43,26.3,80,hand-calibrated,CNY,7722,shanghai,https://www.mundevo.com/cost-of-living/shanghai
-30,Buenos Aires,Argentina,AR,34,25,17,official,2026-11,51,4.78,national,75,80,88,8.1,69,hand-calibrated,ARS,1913908,buenos-aires,https://www.mundevo.com/cost-of-living/buenos-aires
-31,Cape Town,South Africa,ZA,34,32,16,contrasted,2026-07,6,37.86,national,63,74,61,17.1,40,hand-calibrated,ZAR,21061,cape-town,https://www.mundevo.com/cost-of-living/cape-town
-32,Santiago,Chile,CL,34,24,18,contrasted,2026-11,47,5.68,national,83,84,39,28.8,58,oecd-taxing-wages,CLP,1210955,santiago,https://www.mundevo.com/cost-of-living/santiago
-33,Bogota,Colombia,CO,35,31,8,contrasted,2026-10,16,24.3,national,79,82,64,15.3,50,oecd-taxing-wages,COP,4179291,bogota,https://www.mundevo.com/cost-of-living/bogota
-34,Bucharest,Romania,RO,36,29,42,contrasted,2026-11,80,1.27,national,69,77,73,12.4,74,hand-calibrated,RON,6297,bucharest,https://www.mundevo.com/cost-of-living/bucharest
-35,Cluj-Napoca,Romania,RO,36,28,42,contrasted,2026-11,80,1.27,national,69,77,83,9.2,77,hand-calibrated,RON,6265,cluj-napoca,https://www.mundevo.com/cost-of-living/cluj-napoca
-36,Debrecen,Hungary,HU,36,29,34,contrasted,2026-11,90,0.79,national,75,80,76,11.3,81,oecd-taxing-wages,HUF,429724,debrecen,https://www.mundevo.com/cost-of-living/debrecen
-37,Thessaloniki,Greece,GR,37,25,26,contrasted,2026-11,88,0.85,national,69,77,80,10.1,79,oecd-taxing-wages,EUR,1206,thessaloniki,https://www.mundevo.com/cost-of-living/thessaloniki
+18,Cebu,Philippines,PH,28,24,8,estimated,2026-11,53,4.32,national,52,69,92,7.1,62,hand-calibrated,PHP,63159,cebu,https://www.mundevo.com/cost-of-living/cebu
+19,Johannesburg,South Africa,ZA,28,24,16,contrasted,2026-07,6,37.86,national,63,74,45,24.8,36,hand-calibrated,ZAR,17383,johannesburg,https://www.mundevo.com/cost-of-living/johannesburg
+20,Rio de Janeiro,Brazil,BR,29,23,9,contrasted,2026-09,20,20.58,national,83,84,60,17.5,52,hand-calibrated,BRL,6074,rio-de-janeiro,https://www.mundevo.com/cost-of-living/rio-de-janeiro
+21,Cordoba,Argentina,AR,30,17,17,contrasted,2026-10,51,4.78,national,75,80,98,5.5,71,hand-calibrated,ARS,1696282,cordoba,https://www.mundevo.com/cost-of-living/cordoba
+22,Istanbul,Turkey,TR,30,20,29,contrasted,2026-08,64,2.65,national,69,77,60,17.5,65,oecd-taxing-wages,TRY,53238,istanbul,https://www.mundevo.com/cost-of-living/istanbul
+23,Lima,Peru,PE,30,22,13,official-adjusted,2026-11,41,7.48,national,50,68,71,12.9,52,hand-calibrated,PEN,3716,lima,https://www.mundevo.com/cost-of-living/lima
+24,São Paulo,Brazil,BR,30,24,9,contrasted,2026-09,20,20.58,national,83,84,52,21.6,50,hand-calibrated,BRL,6418,sao-paulo,https://www.mundevo.com/cost-of-living/sao-paulo
+25,Manila,Philippines,PH,31,29,8,contrasted,2026-11,53,4.32,national,52,69,66,14.7,56,hand-calibrated,PHP,69929,manila,https://www.mundevo.com/cost-of-living/manila
+26,Medellin,Colombia,CO,31,25,8,estimated,2026-10,16,24.3,national,79,82,67,14.2,51,oecd-taxing-wages,COP,3841896,medellin,https://www.mundevo.com/cost-of-living/medellin
+27,Valparaiso,Chile,CL,31,20,18,estimated,2026-11,47,5.68,national,83,84,75,11.7,67,oecd-taxing-wages,CLP,1098237,valparaiso,https://www.mundevo.com/cost-of-living/valparaiso
+28,Beijing,China,CN,32,26,13,contrasted,2026-10,98,0.55,national,85,85,42,27,79,hand-calibrated,CNY,7563,beijing,https://www.mundevo.com/cost-of-living/beijing
+29,Shanghai,China,CN,32,28,13,contrasted,2026-10,98,0.55,national,85,85,43,26.3,80,hand-calibrated,CNY,7727,shanghai,https://www.mundevo.com/cost-of-living/shanghai
+30,Bogota,Colombia,CO,34,30,8,contrasted,2026-10,16,24.3,national,79,82,64,15.3,50,oecd-taxing-wages,COP,4237349,bogota,https://www.mundevo.com/cost-of-living/bogota
+31,Buenos Aires,Argentina,AR,34,25,17,official,2026-11,51,4.78,national,75,80,88,8.1,69,hand-calibrated,ARS,1914576,buenos-aires,https://www.mundevo.com/cost-of-living/buenos-aires
+32,Cape Town,South Africa,ZA,34,31,16,contrasted,2026-07,6,37.86,national,63,74,61,17.1,40,hand-calibrated,ZAR,21132,cape-town,https://www.mundevo.com/cost-of-living/cape-town
+33,Santiago,Chile,CL,34,24,18,contrasted,2026-11,47,5.68,national,83,84,39,28.8,58,oecd-taxing-wages,CLP,1210536,santiago,https://www.mundevo.com/cost-of-living/santiago
+34,Bucharest,Romania,RO,36,29,42,contrasted,2026-11,80,1.27,national,69,77,73,12.4,74,hand-calibrated,RON,6301,bucharest,https://www.mundevo.com/cost-of-living/bucharest
+35,Cluj-Napoca,Romania,RO,36,28,42,contrasted,2026-11,80,1.27,national,69,77,83,9.2,77,hand-calibrated,RON,6269,cluj-napoca,https://www.mundevo.com/cost-of-living/cluj-napoca
+36,Debrecen,Hungary,HU,36,28,34,contrasted,2026-11,90,0.79,national,75,80,76,11.3,81,oecd-taxing-wages,HUF,431874,debrecen,https://www.mundevo.com/cost-of-living/debrecen
+37,Thessaloniki,Greece,GR,37,25,26,contrasted,2026-11,88,0.85,national,69,77,80,10.1,79,oecd-taxing-wages,EUR,1207,thessaloniki,https://www.mundevo.com/cost-of-living/thessaloniki
 38,Riyadh,Saudi Arabia,SA,38,32,0,contrasted,2026-11,89,0.84,national,81,83,16,48.8,68,hand-calibrated,SAR,5135,riyadh,https://www.mundevo.com/cost-of-living/riyadh
-39,Budapest,Hungary,HU,39,34,34,contrasted,2026-11,90,0.79,national,75,80,69,13.6,80,oecd-taxing-wages,HUF,469244,budapest,https://www.mundevo.com/cost-of-living/budapest
-40,Guadalajara,Mexico,MX,39,33,13,contrasted,2026-11,13,27.37,national,73,79,73,12.5,49,oecd-taxing-wages,MXN,26516,guadalajara,https://www.mundevo.com/cost-of-living/guadalajara
+39,Budapest,Hungary,HU,39,33,34,official,2026-11,90,0.79,national,75,80,69,13.6,80,oecd-taxing-wages,HUF,468894,budapest,https://www.mundevo.com/cost-of-living/budapest
+40,Guadalajara,Mexico,MX,39,33,13,contrasted,2026-11,13,27.37,national,73,79,73,12.5,49,oecd-taxing-wages,MXN,26604,guadalajara,https://www.mundevo.com/cost-of-living/guadalajara
 41,Jeddah,Saudi Arabia,SA,39,31,0,contrasted,2026-11,89,0.84,national,81,83,37,30.4,73,hand-calibrated,SAR,5193,jeddah,https://www.mundevo.com/cost-of-living/jeddah
-42,Athens,Greece,GR,40,29,26,contrasted,2026-11,88,0.85,national,69,77,81,9.8,80,oecd-taxing-wages,EUR,1301,athens,https://www.mundevo.com/cost-of-living/athens
-43,Taipei,Taiwan,TW,40,37,5,official,2026-08,86,0.96,regional,92,88,57,18.9,81,hand-calibrated,TWD,46517,taipei,https://www.mundevo.com/cost-of-living/taipei
-44,Krakow,Poland,PL,42,34,24,contrasted,2026-06,92,0.72,national,79,82,62,16.6,80,oecd-taxing-wages,PLN,5952,krakow,https://www.mundevo.com/cost-of-living/krakow
-45,Mexico City,Mexico,MX,43,39,13,contrasted,2026-11,13,27.37,national,73,79,54,20.6,44,oecd-taxing-wages,MXN,28747,mexico-city,https://www.mundevo.com/cost-of-living/mexico-city
-46,Porto,Portugal,PT,43,35,25,official,2026-06,91,0.76,national,81,83,76,11.3,84,oecd-taxing-wages,EUR,1378,porto,https://www.mundevo.com/cost-of-living/porto
-47,Osaka,Japan,JP,44,32,23,contrasted,2026-11,100,0.24,national,88,86,59,17.9,86,oecd-taxing-wages,JPY,249377,osaka,https://www.mundevo.com/cost-of-living/osaka
-48,Rome,Italy,IT,44,32,29,official,2026-06,99,0.52,national,79,82,69,13.7,85,oecd-taxing-wages,EUR,1430,rome,https://www.mundevo.com/cost-of-living/rome
-49,Brno,Czech Republic,CZ,45,38,21,contrasted,2026-06,92,0.72,national,81,83,77,11.1,84,oecd-taxing-wages,CZK,35436,brno,https://www.mundevo.com/cost-of-living/brno
-50,Florence,Italy,IT,45,33,29,official,2026-08,99,0.52,national,79,82,79,10.4,87,oecd-taxing-wages,EUR,1458,florence,https://www.mundevo.com/cost-of-living/florence
-51,Busan,South Korea,KR,46,34,17,estimated,2026-11,99,0.52,national,92,88,58,18.3,86,oecd-taxing-wages,KRW,2160415,busan,https://www.mundevo.com/cost-of-living/busan
-52,Lisbon,Portugal,PT,47,42,25,official,2026-06,91,0.76,national,81,83,82,9.4,85,oecd-taxing-wages,EUR,1523,lisbon,https://www.mundevo.com/cost-of-living/lisbon
-53,Lyon,France,FR,47,34,28,official,2026-09,81,1.18,national,79,82,75,11.6,79,oecd-taxing-wages,EUR,1515,lyon,https://www.mundevo.com/cost-of-living/lyon
-54,Tallinn,Estonia,EE,47,36,23,contrasted,2026-07,70,2.02,national,73,79,85,8.7,75,oecd-taxing-wages,EUR,1515,tallinn,https://www.mundevo.com/cost-of-living/tallinn
-55,Warsaw,Poland,PL,47,42,24,contrasted,2026-06,92,0.72,national,79,82,72,12.6,82,oecd-taxing-wages,PLN,6761,warsaw,https://www.mundevo.com/cost-of-living/warsaw
-56,Hamburg,Germany,DE,49,36,39,official,2026-06,89,0.85,national,90,87,79,10.3,87,oecd-taxing-wages,EUR,1593,hamburg,https://www.mundevo.com/cost-of-living/hamburg
-57,Prague,Czech Republic,CZ,49,45,21,contrasted,2026-06,92,0.72,national,81,83,70,13.2,83,oecd-taxing-wages,CZK,38972,prague,https://www.mundevo.com/cost-of-living/prague
+42,Athens,Greece,GR,40,29,26,contrasted,2026-11,88,0.85,national,69,77,81,9.8,80,oecd-taxing-wages,EUR,1302,athens,https://www.mundevo.com/cost-of-living/athens
+43,Brno,Czech Republic,CZ,40,31,21,official,2026-09,92,0.72,national,81,83,77,11.1,84,oecd-taxing-wages,CZK,31559,brno,https://www.mundevo.com/cost-of-living/brno
+44,Taipei,Taiwan,TW,40,37,5,official,2026-08,86,0.96,regional,92,88,57,18.9,81,hand-calibrated,TWD,46517,taipei,https://www.mundevo.com/cost-of-living/taipei
+45,Krakow,Poland,PL,41,33,24,contrasted,2026-06,92,0.72,national,79,82,62,16.6,80,oecd-taxing-wages,PLN,5974,krakow,https://www.mundevo.com/cost-of-living/krakow
+46,Mexico City,Mexico,MX,42,39,13,contrasted,2026-11,13,27.37,national,73,79,54,20.6,44,oecd-taxing-wages,MXN,28835,mexico-city,https://www.mundevo.com/cost-of-living/mexico-city
+47,Porto,Portugal,PT,43,35,25,official,2026-06,91,0.76,national,81,83,76,11.3,84,oecd-taxing-wages,EUR,1379,porto,https://www.mundevo.com/cost-of-living/porto
+48,Prague,Czech Republic,CZ,43,36,21,official,2026-09,92,0.72,national,81,83,70,13.2,83,oecd-taxing-wages,CZK,34345,prague,https://www.mundevo.com/cost-of-living/prague
+49,Osaka,Japan,JP,44,32,23,contrasted,2026-11,100,0.24,national,88,86,59,17.9,86,oecd-taxing-wages,JPY,248516,osaka,https://www.mundevo.com/cost-of-living/osaka
+50,Rome,Italy,IT,44,32,29,official,2026-06,99,0.52,national,79,82,69,13.7,85,oecd-taxing-wages,EUR,1431,rome,https://www.mundevo.com/cost-of-living/rome
+51,Busan,South Korea,KR,45,34,17,estimated,2026-11,99,0.52,national,92,88,58,18.3,86,oecd-taxing-wages,KRW,2169076,busan,https://www.mundevo.com/cost-of-living/busan
+52,Florence,Italy,IT,45,33,29,official,2026-08,99,0.52,national,79,82,79,10.4,87,oecd-taxing-wages,EUR,1459,florence,https://www.mundevo.com/cost-of-living/florence
+53,Lisbon,Portugal,PT,47,42,25,official,2026-06,91,0.76,national,81,83,82,9.4,85,oecd-taxing-wages,EUR,1524,lisbon,https://www.mundevo.com/cost-of-living/lisbon
+54,Lyon,France,FR,47,34,28,official,2026-09,81,1.18,national,79,82,75,11.6,79,oecd-taxing-wages,EUR,1515,lyon,https://www.mundevo.com/cost-of-living/lyon
+55,Tallinn,Estonia,EE,47,36,23,contrasted,2026-07,70,2.02,national,73,79,85,8.7,75,oecd-taxing-wages,EUR,1515,tallinn,https://www.mundevo.com/cost-of-living/tallinn
+56,Warsaw,Poland,PL,47,42,24,contrasted,2026-06,92,0.72,national,79,82,72,12.6,82,oecd-taxing-wages,PLN,6783,warsaw,https://www.mundevo.com/cost-of-living/warsaw
+57,Hamburg,Germany,DE,49,36,39,official,2026-06,89,0.85,national,90,87,79,10.3,87,oecd-taxing-wages,EUR,1593,hamburg,https://www.mundevo.com/cost-of-living/hamburg
 58,Vienna,Austria,AT,49,33,32,official,2026-06,89,0.81,national,83,84,78,10.8,84,oecd-taxing-wages,EUR,1593,vienna,https://www.mundevo.com/cost-of-living/vienna
 59,Berlin,Germany,DE,50,37,39,official,2026-06,89,0.85,national,90,87,77,11,86,oecd-taxing-wages,EUR,1615,berlin,https://www.mundevo.com/cost-of-living/berlin
-60,Gothenburg,Sweden,SE,50,33,23,official,2026-11,82,1.12,national,85,85,95,6.3,86,oecd-taxing-wages,SEK,17987,gothenburg,https://www.mundevo.com/cost-of-living/gothenburg
-61,Milan,Italy,IT,50,41,29,official,2026-06,99,0.52,national,79,82,51,22.2,80,oecd-taxing-wages,EUR,1626,milan,https://www.mundevo.com/cost-of-living/milan
+60,Gothenburg,Sweden,SE,50,33,23,official,2026-11,82,1.12,national,85,85,95,6.3,86,oecd-taxing-wages,SEK,18034,gothenburg,https://www.mundevo.com/cost-of-living/gothenburg
+61,Milan,Italy,IT,50,41,29,official,2026-06,99,0.52,national,79,82,51,22.2,80,oecd-taxing-wages,EUR,1627,milan,https://www.mundevo.com/cost-of-living/milan
 62,Salzburg,Austria,AT,50,35,32,official-adjusted,2026-06,89,0.81,national,83,84,87,8.3,86,oecd-taxing-wages,EUR,1628,salzburg,https://www.mundevo.com/cost-of-living/salzburg
 63,Montreal,Canada,CA,51,40,26,official,2026-07,70,2.03,national,100,92,79,10.3,83,oecd-taxing-wages,CAD,2618,montreal,https://www.mundevo.com/cost-of-living/montreal
-64,Seoul,South Korea,KR,51,41,17,official,2026-11,99,0.52,national,92,88,39,28.9,82,oecd-taxing-wages,KRW,2404559,seoul,https://www.mundevo.com/cost-of-living/seoul
+64,Seoul,South Korea,KR,51,40,17,official,2026-11,99,0.52,national,92,88,39,28.9,82,oecd-taxing-wages,KRW,2413220,seoul,https://www.mundevo.com/cost-of-living/seoul
 65,Frankfurt,Germany,DE,52,40,39,official,2026-06,89,0.85,national,90,87,75,11.7,86,oecd-taxing-wages,EUR,1676,frankfurt,https://www.mundevo.com/cost-of-living/frankfurt
-66,Stockholm,Sweden,SE,53,36,23,official,2026-11,82,1.12,national,85,85,96,5.9,87,oecd-taxing-wages,SEK,18997,stockholm,https://www.mundevo.com/cost-of-living/stockholm
-67,Valencia,Spain,ES,54,53,24,official-adjusted,2026-10,94,0.67,national,83,84,85,8.8,88,oecd-taxing-wages,EUR,1737,valencia,https://www.mundevo.com/cost-of-living/valencia
+66,Stockholm,Sweden,SE,52,36,23,official,2026-11,82,1.12,national,85,85,96,5.9,87,oecd-taxing-wages,SEK,19044,stockholm,https://www.mundevo.com/cost-of-living/stockholm
+67,Valencia,Spain,ES,54,53,24,official-adjusted,2026-10,94,0.67,national,83,84,85,8.8,88,oecd-taxing-wages,EUR,1738,valencia,https://www.mundevo.com/cost-of-living/valencia
 68,Antwerp,Belgium,BE,55,41,40,official-adjusted,2026-06,83,1.08,national,88,86,77,11.1,83,oecd-taxing-wages,EUR,1776,antwerp,https://www.mundevo.com/cost-of-living/antwerp
-69,Barcelona,Spain,ES,55,55,24,official-adjusted,2026-06,94,0.67,national,83,84,72,12.7,85,oecd-taxing-wages,EUR,1780,barcelona,https://www.mundevo.com/cost-of-living/barcelona
-70,Madrid,Spain,ES,56,56,24,contrasted,2026-10,94,0.67,national,83,84,78,10.7,86,oecd-taxing-wages,EUR,1830,madrid,https://www.mundevo.com/cost-of-living/madrid
-71,Tokyo,Japan,JP,57,51,23,contrasted,2026-11,100,0.24,national,88,86,47,23.8,83,oecd-taxing-wages,JPY,327122,tokyo,https://www.mundevo.com/cost-of-living/tokyo
+69,Barcelona,Spain,ES,55,55,24,official-adjusted,2026-06,94,0.67,national,83,84,72,12.7,85,oecd-taxing-wages,EUR,1781,barcelona,https://www.mundevo.com/cost-of-living/barcelona
+70,Madrid,Spain,ES,56,56,24,contrasted,2026-10,94,0.67,national,83,84,78,10.7,86,oecd-taxing-wages,EUR,1831,madrid,https://www.mundevo.com/cost-of-living/madrid
+71,Tokyo,Japan,JP,58,51,23,contrasted,2026-11,100,0.24,national,88,86,47,23.8,83,oecd-taxing-wages,JPY,326239,tokyo,https://www.mundevo.com/cost-of-living/tokyo
 72,Brussels,Belgium,BE,59,47,40,official-adjusted,2026-06,83,1.08,national,88,86,77,11,83,oecd-taxing-wages,EUR,1899,brussels,https://www.mundevo.com/cost-of-living/brussels
 73,Munich,Germany,DE,59,51,39,official,2026-06,89,0.85,national,90,87,77,11,86,oecd-taxing-wages,EUR,1922,munich,https://www.mundevo.com/cost-of-living/munich
 74,Rotterdam,Netherlands,NL,61,47,28,contrasted,2026-06,92,0.72,national,85,85,77,10.9,86,oecd-taxing-wages,EUR,1974,rotterdam,https://www.mundevo.com/cost-of-living/rotterdam
 75,Dubai,United Arab Emirates,AE,62,61,0,contrasted,2026-11,95,0.63,national,83,84,24,41.1,73,hand-calibrated,AED,8061,dubai,https://www.mundevo.com/cost-of-living/dubai
 76,Paris,France,FR,62,57,28,official,2026-06,81,1.18,national,79,82,78,10.7,80,oecd-taxing-wages,EUR,2012,paris,https://www.mundevo.com/cost-of-living/paris
-77,Manchester,United Kingdom,GB,64,58,23,official,2026-11,83,1.1,national,92,88,90,7.6,88,oecd-taxing-wages,GBP,1745,manchester,https://www.mundevo.com/cost-of-living/manchester
-78,Edinburgh,United Kingdom,GB,65,60,23,official-adjusted,2026-11,83,1.1,national,92,88,96,6.1,89,oecd-taxing-wages,GBP,1774,edinburgh,https://www.mundevo.com/cost-of-living/edinburgh
-79,Wellington,New Zealand,NZ,65,62,21,official-adjusted,2026-08,78,1.41,national,94,89,96,5.9,88,oecd-taxing-wages,NZD,4183,wellington,https://www.mundevo.com/cost-of-living/wellington
+77,Manchester,United Kingdom,GB,64,58,23,official,2026-11,83,1.1,national,92,88,90,7.6,88,oecd-taxing-wages,GBP,1747,manchester,https://www.mundevo.com/cost-of-living/manchester
+78,Edinburgh,United Kingdom,GB,65,59,23,official-adjusted,2026-11,83,1.1,national,92,88,96,6.1,89,oecd-taxing-wages,GBP,1776,edinburgh,https://www.mundevo.com/cost-of-living/edinburgh
+79,Wellington,New Zealand,NZ,65,62,21,official-adjusted,2026-08,78,1.41,national,94,89,96,5.9,88,oecd-taxing-wages,NZD,4189,wellington,https://www.mundevo.com/cost-of-living/wellington
 80,Cork,Ireland,IE,67,59,25,official-adjusted,2026-11,94,0.64,national,79,82,94,6.5,89,oecd-taxing-wages,EUR,2164,cork,https://www.mundevo.com/cost-of-living/cork
 81,Toronto,Canada,CA,68,62,26,official,2026-11,70,2.03,national,100,92,78,10.8,83,oecd-taxing-wages,CAD,3443,toronto,https://www.mundevo.com/cost-of-living/toronto
-82,Auckland,New Zealand,NZ,69,68,21,official-adjusted,2026-08,78,1.41,national,94,89,93,6.8,87,oecd-taxing-wages,NZD,4440,auckland,https://www.mundevo.com/cost-of-living/auckland
+82,Auckland,New Zealand,NZ,69,68,21,official-adjusted,2026-08,78,1.41,national,94,89,93,6.8,87,oecd-taxing-wages,NZD,4446,auckland,https://www.mundevo.com/cost-of-living/auckland
 83,Austin,United States,US,69,62,24,official-adjusted,2026-11,46,6.07,national,92,88,86,8.4,72,oecd-taxing-wages,USD,2463,austin,https://www.mundevo.com/cost-of-living/austin
 84,Vancouver,Canada,CA,70,69,26,official,2026-11,70,2.03,national,100,92,75,11.6,82,oecd-taxing-wages,CAD,3555,vancouver,https://www.mundevo.com/cost-of-living/vancouver
 85,Amsterdam,Netherlands,NL,72,62,28,contrasted,2026-06,92,0.72,national,85,85,78,10.6,86,oecd-taxing-wages,EUR,2323,amsterdam,https://www.mundevo.com/cost-of-living/amsterdam
-86,Copenhagen,Denmark,DK,72,64,35,official,2026-11,89,0.83,national,85,85,86,8.4,87,oecd-taxing-wages,DKK,17453,copenhagen,https://www.mundevo.com/cost-of-living/copenhagen
-87,Abu Dhabi,United Arab Emirates,AE,74,84,0,contrasted,2026-11,95,0.63,national,83,84,27,37.8,74,hand-calibrated,AED,9664,abu-dhabi,https://www.mundevo.com/cost-of-living/abu-dhabi
-88,Brisbane,Australia,AU,74,75,24,official,2026-11,89,0.84,national,94,89,89,7.7,91,oecd-taxing-wages,AUD,3914,brisbane,https://www.mundevo.com/cost-of-living/brisbane
-89,Singapore,Singapore,SG,74,80,3,official,2026-11,100,0.14,national,92,88,60,17.5,87,hand-calibrated,SGD,3394,singapore,https://www.mundevo.com/cost-of-living/singapore
-90,Oslo,Norway,NO,75,69,28,official,2026-11,97,0.58,national,94,89,92,6.9,95,oecd-taxing-wages,NOK,26000,oslo,https://www.mundevo.com/cost-of-living/oslo
-91,Melbourne,Australia,AU,76,72,24,official,2026-07,89,0.84,national,94,89,90,7.5,91,oecd-taxing-wages,AUD,4020,melbourne,https://www.mundevo.com/cost-of-living/melbourne
+86,Copenhagen,Denmark,DK,72,64,35,official,2026-11,89,0.83,national,85,85,86,8.4,87,oecd-taxing-wages,DKK,17454,copenhagen,https://www.mundevo.com/cost-of-living/copenhagen
+87,Brisbane,Australia,AU,73,74,24,official,2026-11,89,0.84,national,94,89,89,7.7,91,oecd-taxing-wages,AUD,3923,brisbane,https://www.mundevo.com/cost-of-living/brisbane
+88,Abu Dhabi,United Arab Emirates,AE,74,84,0,contrasted,2026-11,95,0.63,national,83,84,27,37.8,74,hand-calibrated,AED,9664,abu-dhabi,https://www.mundevo.com/cost-of-living/abu-dhabi
+89,Singapore,Singapore,SG,74,80,3,official,2026-11,100,0.14,national,92,88,60,17.5,87,hand-calibrated,SGD,3393,singapore,https://www.mundevo.com/cost-of-living/singapore
+90,Melbourne,Australia,AU,75,72,24,official,2026-07,89,0.84,national,94,89,90,7.5,91,oecd-taxing-wages,AUD,4029,melbourne,https://www.mundevo.com/cost-of-living/melbourne
+91,Oslo,Norway,NO,75,68,28,official,2026-11,97,0.58,national,94,89,92,6.9,95,oecd-taxing-wages,NOK,26062,oslo,https://www.mundevo.com/cost-of-living/oslo
 92,Chicago,United States,US,77,70,24,official-adjusted,2026-11,46,6.07,national,92,88,76,11.2,70,oecd-taxing-wages,USD,2756,chicago,https://www.mundevo.com/cost-of-living/chicago
-93,Tel Aviv,Israel,IL,78,73,27,official,2026-11,74,1.67,national,85,85,62,16.6,75,oecd-taxing-wages,ILS,9186,tel-aviv,https://www.mundevo.com/cost-of-living/tel-aviv
+93,Tel Aviv,Israel,IL,78,72,27,official,2026-11,74,1.67,national,85,85,62,16.6,75,oecd-taxing-wages,ILS,9238,tel-aviv,https://www.mundevo.com/cost-of-living/tel-aviv
 94,Seattle,United States,US,86,82,24,official-adjusted,2026-08,46,6.07,national,92,88,82,9.6,71,oecd-taxing-wages,USD,3063,seattle,https://www.mundevo.com/cost-of-living/seattle
 95,Miami,United States,US,87,83,24,official-adjusted,2026-11,46,6.07,national,92,88,83,9.2,71,oecd-taxing-wages,USD,3088,miami,https://www.mundevo.com/cost-of-living/miami
 96,Dublin,Ireland,IE,89,94,25,official,2026-11,94,0.64,national,79,82,93,6.8,89,oecd-taxing-wages,EUR,2898,dublin,https://www.mundevo.com/cost-of-living/dublin
 97,Los Angeles,United States,US,90,89,24,official-adjusted,2026-11,46,6.07,national,92,88,57,19.2,65,oecd-taxing-wages,USD,3201,los-angeles,https://www.mundevo.com/cost-of-living/los-angeles
-98,Hong Kong,Hong Kong,HK,92,105,7,official-adjusted,2026-09,100,0.34,national,92,88,44,26,83,hand-calibrated,HKD,25749,hong-kong,https://www.mundevo.com/cost-of-living/hong-kong
-99,London,United Kingdom,GB,95,102,23,official,2026-11,83,1.1,national,92,88,84,9.1,86,oecd-taxing-wages,GBP,2586,london,https://www.mundevo.com/cost-of-living/london
-100,Sydney,Australia,AU,96,104,24,official,2026-11,89,0.84,national,94,89,79,10.2,88,oecd-taxing-wages,AUD,5103,sydney,https://www.mundevo.com/cost-of-living/sydney
+98,Hong Kong,Hong Kong,HK,92,106,7,official-adjusted,2026-09,100,0.34,national,92,88,44,26,83,hand-calibrated,HKD,25745,hong-kong,https://www.mundevo.com/cost-of-living/hong-kong
+99,London,United Kingdom,GB,95,102,23,official,2026-11,83,1.1,national,92,88,84,9.1,86,oecd-taxing-wages,GBP,2588,london,https://www.mundevo.com/cost-of-living/london
+100,Sydney,Australia,AU,96,103,24,official,2026-11,89,0.84,national,94,89,79,10.2,88,oecd-taxing-wages,AUD,5112,sydney,https://www.mundevo.com/cost-of-living/sydney
 101,New York,United States,US,100,100,24,official-adjusted,2026-08,46,6.07,national,92,88,70,13.2,68,oecd-taxing-wages,USD,3563,new-york,https://www.mundevo.com/cost-of-living/new-york
 102,San Francisco,United States,US,109,118,24,official-adjusted,2026-11,46,6.07,national,92,88,79,10.2,70,oecd-taxing-wages,USD,3893,san-francisco,https://www.mundevo.com/cost-of-living/san-francisco
-103,Geneva,Switzerland,CH,114,83,18,official-adjusted,2026-11,99,0.53,national,90,87,80,9.9,91,oecd-taxing-wages,CHF,3424,geneva,https://www.mundevo.com/cost-of-living/geneva
-104,Zurich,Switzerland,CH,118,95,18,official,2026-11,99,0.53,national,90,87,72,12.8,89,oecd-taxing-wages,CHF,3539,zurich,https://www.mundevo.com/cost-of-living/zurich
+103,Geneva,Switzerland,CH,114,84,18,official-adjusted,2026-11,99,0.53,national,90,87,80,9.9,91,oecd-taxing-wages,CHF,3420,geneva,https://www.mundevo.com/cost-of-living/geneva
+104,Zurich,Switzerland,CH,118,95,18,official,2026-11,99,0.53,national,90,87,72,12.8,89,oecd-taxing-wages,CHF,3536,zurich,https://www.mundevo.com/cost-of-living/zurich
